@@ -9,3 +9,7 @@ This project demonstrates how to automatically deploy a WordPress website using 
    ```bash
    git clone https://github.com/DarsshB/wpdeploy.git
    cd wpdeploy
+
+## Website URL
+
+  - https://wpdeploy.hopto.org
